@@ -1,3 +1,10 @@
+
+## 🚀 Sobre mim
+Eu sou um desenvolvedor Front-End que utiliza as tecnologias HTML, CSS e JS para desenvolver projetos!
+
+## 📫 Contato
+E-Mail: talissonfelipedesouzafaria@gmail.com
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
